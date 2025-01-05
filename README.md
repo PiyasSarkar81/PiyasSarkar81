@@ -14,9 +14,9 @@ My Projects:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyassarkar81&label=Profile%20views&color=0e75b6&style=flat" alt="piyassarkar81" /> </p> -->
 
-- 📫 How to reach me **piyassarkar81@gmail.com**
+📫 How to reach me **piyassarkar81@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/piyas-sarkar/](https://www.linkedin.com/in/piyas-sarkar/)
+📄 Know about my experiences [https://www.linkedin.com/in/piyas-sarkar/](https://www.linkedin.com/in/piyas-sarkar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
