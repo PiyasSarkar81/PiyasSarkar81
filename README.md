@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Piyas Sarkar</h1>
 <h3 align="center">Coding with creativity and care, progressing commit by commit</h3>
 
+
+My Projects:
+
+- eCommerce platform[https://github.com/PiyasSarkar81/MangoStore]
+
+- Stock Price Prediction [https://github.com/PiyasSarkar81/stockPreduction]
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyassarkar81&label=Profile%20views&color=0e75b6&style=flat" alt="piyassarkar81" /> </p> -->
-
-- 🔭 I’m currently working on [Stock Prediction Application](https://github.com/PiyasSarkar81/stockPreduction)
-
-- 🌱 I’m currently learning **Scikit-learn**
-
-- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **piyassarkar81@gmail.com**
 
