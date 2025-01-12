@@ -8,9 +8,12 @@ My Projects:
 
 - [Stock Price Prediction](https://github.com/PiyasSarkar81/stockPreduction)
 
-- [Notes App](https://github.com/PiyasSarkar81/notes-app)
+- [Weather App](https://github.com/PiyasSarkar81/Weather-app)
 
 - [Path Finder Visualizar](https://github.com/PiyasSarkar81/Path-Finder)
+
+- [Notes App](https://github.com/PiyasSarkar81/notes-app)
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyassarkar81&label=Profile%20views&color=0e75b6&style=flat" alt="piyassarkar81" /> </p> -->
 
