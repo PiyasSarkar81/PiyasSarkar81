@@ -19,8 +19,6 @@ My Projects:
 
 📫 How to reach me **piyassarkar81@gmail.com**
 
-📄 Know about my experiences [https://www.linkedin.com/in/piyas-sarkar/](https://www.linkedin.com/in/piyas-sarkar/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyas-sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyas-sarkar" height="30" width="40" /></a>
