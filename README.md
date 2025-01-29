@@ -6,7 +6,7 @@ My Projects:
 
 - [eCommerce platform](https://github.com/PiyasSarkar81/MangoStore)
 
-- [Stock Price Prediction](https://github.com/PiyasSarkar81/stockPreduction)
+- [Stock Price Prediction](https://github.com/PiyasSarkar81/Stocks-Prediction)
 
 - [Weather App](https://github.com/PiyasSarkar81/Weather-app)
 
