@@ -6,9 +6,11 @@ My Projects:
 
 - [eCommerce platform](https://github.com/PiyasSarkar81/MangoStore)
 
-- [Stock Price Prediction](https://github.com/PiyasSarkar81/Stocks-Prediction)
+- [House price prediction](https://github.com/PiyasSarkar81/home_price_prediction)
 
 - [Weather App](https://github.com/PiyasSarkar81/Weather-app)
+
+- [Stock Price Prediction](https://github.com/PiyasSarkar81/Stocks-Prediction)
 
 - [Path Finder Visualizar](https://github.com/PiyasSarkar81/Path-Finder)
 
