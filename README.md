@@ -24,7 +24,7 @@ My Projects:
 <a href="https://linkedin.com/in/piyas-sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyas-sarkar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/piyass" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="piyass" height="30" width="40" /></a>
 <!-- <a href="https://codeforces.com/profile/piyasarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="piyasarkar" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/piyassarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyassarkar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/coder_psarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyassarkar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/piyassarkar81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="piyassarkar81" height="30" width="40" /></a>
 </p>
 
